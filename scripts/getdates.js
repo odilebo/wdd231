@@ -104,7 +104,7 @@ const courses = [
 
 function displayCourses() {
     const container = document.getElementById('information');
-    container.innerHTML = ''; // Clear previous content
+    container.innerHTML = '';
 
     courses.forEach(course => {
         const courseElement = document.createElement('info');
@@ -120,13 +120,12 @@ function displayCourses() {
 
 }
 
-// Show all courses on page load
 document.addEventListener('DOMContentLoaded', displayCourses);
 
 
 function filterCourses(category) {
     const container = document.getElementById('courses-container');
-    container.innerHTML = ''; // Clear previous content
+    container.innerHTML = ''; 
 
     const filteredCourses = category === 'All' ? courses : courses.filter(course => course.subject === category);
 
@@ -144,6 +143,5 @@ function filterCourses(category) {
     });
 }
 
-// Show all courses on page load
 filterCourses('All');
 

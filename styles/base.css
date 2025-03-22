@@ -8,21 +8,21 @@
 .top {
     display: flex;
     align-items: center;
-    justify-content: center; /* Centers content horizontally */
-    gap: 0.5rem; /* Reduces the spacing between the title and the image */
-    padding: 1rem 0; /* Adds some vertical spacing */
+    justify-content: center; 
+    gap: 0.5rem; 
+    padding: 1rem 0; 
 }
 
 .top h1 {
-    margin: 0; /* Remove unnecessary margin */
+    margin: 0; 
     font-size: 2rem;
-    text-align: center; /* Ensures text remains centered */
+    text-align: center;
 }
 
 .top img {
-    width: 120px; /* Slightly smaller for better balance */
+    width: 120px; 
     height: auto;
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 1); /* Adds a subtle shadow for a polished look */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 1); 
 }
 
 nav ul {
@@ -63,6 +63,8 @@ body {
     gap: 1rem;
     padding: 1rem;
 }
+
+
 
 header, footer, .card3 {
     background: #38A3A5;
@@ -165,7 +167,7 @@ h1 {
 }
 
 .completed {
-    background-color: #80ED99; /* Light green to indicate completion */
+    background-color: #80ED99; 
     color: black;
     border: 2px solid #38A3A5;
 }
