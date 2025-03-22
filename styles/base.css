@@ -55,7 +55,7 @@ nav ul {
 
 body {
     display: grid;
-    height: 100hv;
+    height: 100vh;
     grid-template-rows: auto 1fr auto;
     grid-template-columns: 1fr ;
     font-family: "Open Sans", sans-serif;
