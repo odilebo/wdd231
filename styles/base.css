@@ -55,13 +55,23 @@ nav ul {
 
 body {
     display: grid;
-    height: 100vh;
+    height: 100hv;
     grid-template-rows: auto 1fr auto;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr ;
     font-family: "Open Sans", sans-serif;
     font-weight: 200;
     gap: 1rem;
     padding: 1rem;
+}
+
+main {
+
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 1rem;
+
 }
 
 
@@ -111,6 +121,7 @@ h1 {
 .card3 {
     background: #38A3A5;
     width: 100%;
+
 }
 
 .card3 ul {
