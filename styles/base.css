@@ -114,15 +114,6 @@ h1 {
     text-align: center;
 }
 
-.card {
-    grid-template-columns: 1;
-    
-}
-
-.card2 {
-    grid-template-columns: 2;
-}
-
 .card img, .card2 img {
     max-width: 100%;
     height: auto;
