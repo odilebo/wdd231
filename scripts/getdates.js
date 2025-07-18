@@ -122,6 +122,16 @@ function displayCourses() {
 
 document.addEventListener('DOMContentLoaded', displayCourses);
 
+const filterButtons = document.querySelectorAll('.filter-buttons button');
+
+filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+        const filter = this.getAttribute('data-filter');
+        filterCourses(filter);
+    });
+});
+
+
 
 function filterCourses(category) {
     const container = document.getElementById('courses-container');
