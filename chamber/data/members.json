@@ -4,7 +4,7 @@
       "address": "123 Madiba Street, Pretoria",
       "phone": "012 345 6789",
       "website": "https://ubuntusolutions.co.za",
-      "image": "technology.jpg",
+      "image": "susaitaible.jpg",
       "membership": 3,
       "description": "Empowering communities with technology."
     },
@@ -13,7 +13,7 @@
       "address": "45 Kloof Road, Durban",
       "phone": "031 222 3344",
       "website": "https://zanzi-textiles.co.za",
-      "image": "zanzi.png",
+      "image": "fashion.jpg",
       "membership": 1,
       "description": "Local manufacturer of sustainable fashion."
     },
@@ -22,7 +22,7 @@
       "address": "7 Bree Street, Cape Town",
       "phone": "021 456 7890",
       "website": "https://siyandalogistics.co.za",
-      "image": "siyanda.png",
+      "image": "transport.jpg",
       "membership": 2,
       "description": "Reliable transport and freight services."
     },
@@ -31,16 +31,16 @@
       "address": "88 Vilakazi Street, Soweto",
       "phone": "011 123 4567",
       "website": "https://lebofoods.co.za",
-      "image": "lebo.png",
+      "image": "shortcut.jpg",
       "membership": 3,
-      "description": "Traditional meals, delivered fast."
+      "description": "Food and catering"
     },
     {
       "name": "Mpho Media",
       "address": "200 Sandton Drive, Johannesburg",
       "phone": "010 999 1111",
       "website": "https://mphomedia.co.za",
-      "image": "mpho.png",
+      "image": "technology.jpg",
       "membership": 2,
       "description": "Digital marketing for African brands."
     },
@@ -49,7 +49,7 @@
       "address": "19 Long Market, East London",
       "phone": "043 555 7777",
       "website": "https://buhleartisans.co.za",
-      "image": "buhle.png",
+      "image": "pexels-abby-chung-371167-1297938.jpg",
       "membership": 1,
       "description": "Handcrafted décor and gifts."
     },
@@ -58,7 +58,7 @@
       "address": "12 Loop Street, Polokwane",
       "phone": "015 888 0000",
       "website": "https://thandoconsulting.co.za",
-      "image": "thando.png",
+      "image": "dealer sad.jpg",
       "membership": 2,
       "description": "Small business consulting experts."
     }
