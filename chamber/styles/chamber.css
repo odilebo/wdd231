@@ -166,3 +166,43 @@ body {
     margin-top: 0.5rem;
   }
   
+  .hero {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .hero-img {
+    width: 100%;
+    height: auto;
+  }
+  .hero-text {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+  }
+  .cta-button {
+    padding: 10px 20px;
+    background-color: #0077cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .events, .weather, .spotlights {
+    padding: 2rem;
+    background: #f9f9f9;
+    margin-top: 1rem;
+  }
+  
+  .spotlight-grid {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .spotlight {
+    flex: 1 1 30%;
+    background: white;
+    padding: 1rem;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
