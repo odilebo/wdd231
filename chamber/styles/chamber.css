@@ -232,5 +232,54 @@ body {
   .spotlight p {
     margin: 0.3rem 0;
   }
+
+  .navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1rem;
+    background-color: #004d40;
+    color: white;
+  }
   
+  #menu-toggle {
+    font-size: 1.8rem;
+    background: none;
+    border: none;
+    color: white;
+    display: none;
+    cursor: pointer;
+  }
+  
+  /* Show nav menu horizontally by default */
+  .navigation-links {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    #menu-toggle {
+      display: block;
+    }
+  
+    .navigation-links {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+      background-color: #004d40;
+      padding-top: 1rem;
+    }
+  
+    .navigation-links.active {
+      display: flex;
+    }
+  
+    .navigation-links a {
+      padding: 0.5rem 1rem;
+      color: white;
+      text-align: left;
+    }
+  }
   

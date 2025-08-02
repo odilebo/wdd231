@@ -200,7 +200,7 @@ h1 {
         align-items: stretch;
     }
 
-    header, footer, main, nav {
+    header, footer, main, .navigation {
         width: 100%;
     }
 

@@ -1,3 +1,12 @@
+document.addEventListener("DOMContentLoaded", () => {
+    const toggleButton = document.getElementById("menu-toggle");
+    const navMenu = document.getElementById("nav-menu");
+  
+    toggleButton.addEventListener("click", () => {
+      navMenu.classList.toggle("active");
+    });
+  });
+
 function getRandomItems(array, count) {
     const shuffled = array.slice().sort(() => 0.5 - Math.random());
     return shuffled.slice(0, count);
@@ -95,4 +104,3 @@ day.innerHTML = `Last Modified:  <span class="highlight">${new Intl.DateTimeForm
 
 full.innerHTML = ` <span class="highlight">${today.getFullYear()}</span>`;
 
-  
