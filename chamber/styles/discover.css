@@ -61,7 +61,7 @@ header {
   border-radius: 5px;
 }
 
-/* Mobile nav */
+
 @media (max-width: 768px) {
   #menu-toggle {
       display: block;
@@ -81,7 +81,6 @@ header {
   }
 }
 
-/* Discover page layout */
 .discover-grid {
   display: grid;
   grid-template-areas: "cards" "visit";
@@ -121,7 +120,7 @@ aside {
   border-radius: 8px;
 }
 
-/* Responsive grids */
+
 @media (max-width: 640px) {
   #cards-container {
       grid-template-columns: 1fr;
