@@ -3,56 +3,56 @@
       "name": "Constitution Hill",
       "address": "11 Kotze Road, Braamfontein, Johannesburg",
       "description": "A living museum and heritage site built on a former prison complex; explores South Africa's constitutional history and human rights.",
-      "image": "images/place_1.webp",
+      "image": "images/constitution.png",
       "source": "turn0search0"
     },
     {
       "name": "Apartheid Museum",
       "address": "Northern Parkway & Gold Reef Road, Ormonde, Johannesburg",
       "description": "A comprehensive museum documenting the apartheid era through exhibits, photos and personal stories.",
-      "image": "images/place_2.webp",
+      "image": "images/apartheid.jpg",
       "source": "turn0search9"
     },
     {
       "name": "Maboneng Precinct",
       "address": "Fox Street, Newtown / City and Suburban, Johannesburg",
       "description": "A creative and cultural neighbourhood with galleries, markets, street art and lively restaurants.",
-      "image": "images/place_3.webp",
+      "image": "images/maboneng.jpg",
       "source": "turn0search10"
     },
     {
       "name": "Carlton Centre",
       "address": "119 Main Street, Johannesburg CBD",
       "description": "Once Africa's tallest building, it houses shops and an observation deck with panoramic views of the city.",
-      "image": "images/place_4.webp",
+      "image": "images/carlton.jpg",
       "source": "turn0search11"
     },
     {
       "name": "Johannesburg Botanical Gardens",
       "address": "Olifants Road, Emmarentia, Johannesburg 2195",
       "description": "Extensive public gardens ideal for picnics, walks and birdwatching with themed sections and a large dam.",
-      "image": "images/place_5.webp",
+      "image": "images/garden.jpg",
       "source": "turn0search12"
     },
     {
       "name": "Nelson Mandela Bridge",
       "address": "Smit Street, Newtown, Johannesburg",
       "description": "An architecturally striking cable-stayed bridge linking key parts of the CBD; a popular photo spot.",
-      "image": "images/place_6.webp",
+      "image": "images/nelson.jpg",
       "source": "turn0search5"
     },
     {
       "name": "Gold Reef City",
       "address": "Corner of Northern Parkway & Data Crescent, Ormonde, Johannesburg",
       "description": "A theme park and entertainment complex built on a former gold mine offering rides, history and shows.",
-      "image": "images/place_7.webp",
+      "image": "images/gold.jpg",
       "source": "turn0search6"
     },
     {
       "name": "Market Theatre",
       "address": "138 Lillian Ngoyi (formerly Bree) Street, Newtown, Johannesburg",
       "description": "Historic theatre complex known for anti-apartheid and contemporary productions and vibrant performing arts.",
-      "image": "images/place_8.webp",
+      "image": "images/market.jpg",
       "source": "turn0search7"
     }
   ]

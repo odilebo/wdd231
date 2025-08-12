@@ -1,5 +1,5 @@
 async function loadPlaces() {
-    const response = await fetch('data/places.json');
+    const response = await fetch('data/discover.json');
     const places = await response.json();
     const container = document.getElementById('cards-container');
 
@@ -64,3 +64,7 @@ day.innerHTML = `Last Modified:  <span class="highlight">${new Intl.DateTimeForm
 ).format(lastMod)}</span>`;
 
 full.innerHTML = ` <span class="highlight">${today.getFullYear()}</span>`;
+
+document.getElementById("menu-toggle").addEventListener("click", function() {
+    document.querySelector(".navigation-links").classList.toggle("active");
+  });
