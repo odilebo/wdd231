@@ -1,3 +1,7 @@
+document.getElementById("menu-toggle").addEventListener("click", function() {
+    document.querySelector(".navigation-links").classList.toggle("active");
+  });
+
 // Set current timestamp
 document.getElementById('timestamp').value = new Date().toLocaleString();
 
