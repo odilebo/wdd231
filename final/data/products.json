@@ -1,0 +1,123 @@
+[
+    {
+      "name": "DJI Mini 4 Pro",
+      "category": "Camera Drone",
+      "price": 1299,
+      "rating": 4.8,
+      "image": "images/mini4pro.jpg",
+      "description": "Ultra-light drone with 4K/60fps video and advanced obstacle avoidance."
+    },
+    {
+      "name": "DJI Air 3",
+      "category": "Camera Drone",
+      "price": 1699,
+      "rating": 4.9,
+      "image": "images/air3.jpg",
+      "description": "Dual primary cameras, 46-min flight time, and omnidirectional sensing."
+    },
+    {
+      "name": "DJI Mavic 3 Pro",
+      "category": "Camera Drone",
+      "price": 2199,
+      "rating": 5.0,
+      "image": "images/mavic3pro.jpg",
+      "description": "Triple-camera system with Hasselblad quality and 43-min flight time."
+    },
+    {
+      "name": "DJI Avata 2",
+      "category": "FPV Drone",
+      "price": 999,
+      "rating": 4.7,
+      "image": "images/avata2.jpg",
+      "description": "Immersive first-person drone with advanced stabilization."
+    },
+    {
+      "name": "DJI Inspire 3",
+      "category": "Professional Cinema Drone",
+      "price": 15999,
+      "rating": 5.0,
+      "image": "images/inspire3.jpg",
+      "description": "8K cinema camera drone for high-end productions."
+    },
+    {
+      "name": "DJI Mini 3",
+      "category": "Camera Drone",
+      "price": 999,
+      "rating": 4.6,
+      "image": "images/mini3.jpg",
+      "description": "Compact drone with 4K HDR video and long battery life."
+    },
+    {
+      "name": "DJI FPV Combo",
+      "category": "FPV Drone",
+      "price": 1299,
+      "rating": 4.8,
+      "image": "images/fpvcombo.jpg",
+      "description": "High-speed FPV drone for immersive racing experiences."
+    },
+    {
+      "name": "DJI Agras T40",
+      "category": "Agricultural Drone",
+      "price": 14999,
+      "rating": 4.9,
+      "image": "images/agrasT40.jpg",
+      "description": "Heavy-lift spraying drone for precision agriculture."
+    },
+    {
+      "name": "DJI Matrice 350 RTK",
+      "category": "Industrial Drone",
+      "price": 12000,
+      "rating": 5.0,
+      "image": "images/matrice350.jpg",
+      "description": "Advanced industrial drone for surveying and inspection."
+    },
+    {
+      "name": "DJI Osmo Action 4",
+      "category": "Drone Accessory",
+      "price": 399,
+      "rating": 4.7,
+      "image": "images/osmoaction4.jpg",
+      "description": "Action camera for mounting on drones."
+    },
+    {
+      "name": "DJI RC 2",
+      "category": "Remote Controller",
+      "price": 299,
+      "rating": 4.8,
+      "image": "images/djirc2.jpg",
+      "description": "Lightweight remote controller with built-in screen."
+    },
+    {
+      "name": "DJI Goggles Integra",
+      "category": "FPV Accessory",
+      "price": 499,
+      "rating": 4.6,
+      "image": "images/gogglesintegra.jpg",
+      "description": "Lightweight FPV goggles for immersive drone control."
+    },
+    {
+      "name": "DJI Fly More Kit",
+      "category": "Accessory Kit",
+      "price": 259,
+      "rating": 4.9,
+      "image": "images/flymorekit.jpg",
+      "description": "Extra batteries, propellers, and charging hub."
+    },
+    {
+      "name": "DJI Mic",
+      "category": "Audio Accessory",
+      "price": 329,
+      "rating": 4.7,
+      "image": "images/djismic.jpg",
+      "description": "Wireless microphone system for drone videography."
+    },
+    {
+      "name": "DJI Mini 2 SE",
+      "category": "Camera Drone",
+      "price": 599,
+      "rating": 4.5,
+      "image": "images/mini2se.jpg",
+      "description": "Affordable mini drone with 2.7K video."
+    }
+  ]
+  

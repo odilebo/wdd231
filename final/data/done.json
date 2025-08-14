@@ -1,0 +1,66 @@
+[
+    {
+      "name": "SkyVision Aerials",
+      "address": "123 Flight Park, Pretoria",
+      "phone": "012 345 6789",
+      "website": "https://skyvisionaerials.co.za",
+      "image": "skyvision.jpg",
+      "membership": 3,
+      "description": "Specialists in DJI drone aerial photography and videography."
+    },
+    {
+      "name": "DroneX Africa",
+      "address": "45 DroneTech Road, Durban",
+      "phone": "031 222 3344",
+      "website": "https://dronexafrica.co.za",
+      "image": "dronex.jpg",
+      "membership": 1,
+      "description": "Leading supplier of DJI drones and accessories."
+    },
+    {
+      "name": "AeroLogistics",
+      "address": "7 Propeller Street, Cape Town",
+      "phone": "021 456 7890",
+      "website": "https://aerologistics.co.za",
+      "image": "aerologistics.jpg",
+      "membership": 2,
+      "description": "Drone-based delivery and freight services."
+    },
+    {
+      "name": "SkyCater Drones",
+      "address": "88 Horizon Avenue, Soweto",
+      "phone": "011 123 4567",
+      "website": "https://skycater.co.za",
+      "image": "skycater.jpg",
+      "membership": 3,
+      "description": "Event catering using drones for stunning aerial displays."
+    },
+    {
+      "name": "PixelFlight Media",
+      "address": "200 SkyDrive, Johannesburg",
+      "phone": "010 999 1111",
+      "website": "https://pixelflightmedia.co.za",
+      "image": "pixelflight.jpg",
+      "membership": 2,
+      "description": "Drone videography and editing services for brands."
+    },
+    {
+      "name": "AeroCraft Designs",
+      "address": "19 Hover Lane, East London",
+      "phone": "043 555 7777",
+      "website": "https://aerocraftdesigns.co.za",
+      "image": "aerocraft.jpg",
+      "membership": 1,
+      "description": "Custom drone modifications and designs."
+    },
+    {
+      "name": "DroneConsult Africa",
+      "address": "12 Airfield Road, Polokwane",
+      "phone": "015 888 0000",
+      "website": "https://droneconsultafrica.co.za",
+      "image": "droneconsult.jpg",
+      "membership": 2,
+      "description": "Professional drone consulting for businesses and governments."
+    }
+  ]
+  
