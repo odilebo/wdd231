@@ -1,0 +1,118 @@
+/* General Reset */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f6f9fc;
+    color: #333;
+  }
+  
+  header {
+    background-color: #e0e0e0; /* grey header */
+    padding: 1rem;
+  }
+  
+  .navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .navigation-links {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .navigation-links a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 0.5rem;
+  }
+  
+  .navigation-links a:hover {
+    background-color: grey;
+    border-radius: 5px;
+  }
+  
+  #menu-toggle {
+    display: none;
+    font-size: 1.8rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Responsive nav */
+  @media (max-width: 768px) {
+    #menu-toggle {
+      display: block;
+    }
+  
+    .navigation-links {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+    }
+  
+    .navigation-links.active {
+      display: flex;
+    }
+  }
+  
+  /* Main content */
+  main {
+    padding: 2rem;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Lobster', cursive;
+    color: black;
+  }
+  
+  h1 { font-size: 2.5rem; margin-bottom: 1rem; }
+  h2 { font-size: 2rem; margin-top: 2rem; margin-bottom: 1rem; }
+  h3 { font-size: 1.5rem; margin-top: 1rem; margin-bottom: 0.5rem; }
+  
+  p, li { font-size: 1rem; margin-bottom: 1rem; }
+  
+  ul { margin-left: 2rem; margin-bottom: 1rem; }
+  
+  .highlight { color: #ff9900; font-weight: bold; }
+  
+  .section { margin-bottom: 2rem; }
+  
+  /* Wireframe placeholders */
+  .wireframe {
+    border: 2px dashed #0077cc;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    background-color: white;
+    border-radius: 8px;
+  }
+  
+  .wireframe img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #e0e0e0;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  footer .social a {
+    margin: 0 0.5rem;
+    display: inline-block;
+  }
+  
+  footer .social a img {
+    width: 50px;
+    height: 50px;
+  }
+  
