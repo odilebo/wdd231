@@ -4,7 +4,7 @@
       "address": "123 Flight Park, Pretoria",
       "phone": "012 345 6789",
       "website": "https://skyvisionaerials.co.za",
-      "image": "skyvision.jpg",
+      "image": "images/pexels-jeshoots-com-147458-442587.jpg",
       "membership": 3,
       "description": "Specialists in DJI drone aerial photography and videography."
     },
@@ -13,7 +13,7 @@
       "address": "45 DroneTech Road, Durban",
       "phone": "031 222 3344",
       "website": "https://dronexafrica.co.za",
-      "image": "dronex.jpg",
+      "image": "images/pexels-pok-rie-33563-724921.jpg",
       "membership": 1,
       "description": "Leading supplier of DJI drones and accessories."
     },
@@ -22,7 +22,7 @@
       "address": "7 Propeller Street, Cape Town",
       "phone": "021 456 7890",
       "website": "https://aerologistics.co.za",
-      "image": "aerologistics.jpg",
+      "image": "images/drone2.jpg",
       "membership": 2,
       "description": "Drone-based delivery and freight services."
     },
@@ -31,7 +31,7 @@
       "address": "88 Horizon Avenue, Soweto",
       "phone": "011 123 4567",
       "website": "https://skycater.co.za",
-      "image": "skycater.jpg",
+      "image": "images/pexels-damir-33418588.jpg",
       "membership": 3,
       "description": "Event catering using drones for stunning aerial displays."
     },
@@ -40,7 +40,7 @@
       "address": "200 SkyDrive, Johannesburg",
       "phone": "010 999 1111",
       "website": "https://pixelflightmedia.co.za",
-      "image": "pixelflight.jpg",
+      "image": "images/pexels-darrel-und-217939-1087182.jpg",
       "membership": 2,
       "description": "Drone videography and editing services for brands."
     },
@@ -49,7 +49,7 @@
       "address": "19 Hover Lane, East London",
       "phone": "043 555 7777",
       "website": "https://aerocraftdesigns.co.za",
-      "image": "aerocraft.jpg",
+      "image": "images/pexels-damir-33418588.jpg",
       "membership": 1,
       "description": "Custom drone modifications and designs."
     },
@@ -58,7 +58,7 @@
       "address": "12 Airfield Road, Polokwane",
       "phone": "015 888 0000",
       "website": "https://droneconsultafrica.co.za",
-      "image": "droneconsult.jpg",
+      "image": "images/pexels-damir-33418588.jpg",
       "membership": 2,
       "description": "Professional drone consulting for businesses and governments."
     }

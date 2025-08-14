@@ -4,7 +4,7 @@
       "category": "Camera Drone",
       "price": 1299,
       "rating": 4.8,
-      "image": "images/mini4pro.jpg",
+      "image": "images/drone2.jpg",
       "description": "Ultra-light drone with 4K/60fps video and advanced obstacle avoidance."
     },
     {
@@ -12,7 +12,7 @@
       "category": "Camera Drone",
       "price": 1699,
       "rating": 4.9,
-      "image": "images/air3.jpg",
+      "image": "images/pexels-cottonbro-3945684.jpg",
       "description": "Dual primary cameras, 46-min flight time, and omnidirectional sensing."
     },
     {
@@ -20,7 +20,7 @@
       "category": "Camera Drone",
       "price": 2199,
       "rating": 5.0,
-      "image": "images/mavic3pro.jpg",
+      "image": "images/pexels-damir-33418588.jpg",
       "description": "Triple-camera system with Hasselblad quality and 43-min flight time."
     },
     {
@@ -28,7 +28,7 @@
       "category": "FPV Drone",
       "price": 999,
       "rating": 4.7,
-      "image": "images/avata2.jpg",
+      "image": "images/pexels-darrel-und-217939-1087182.jpg",
       "description": "Immersive first-person drone with advanced stabilization."
     },
     {
@@ -36,7 +36,7 @@
       "category": "Professional Cinema Drone",
       "price": 15999,
       "rating": 5.0,
-      "image": "images/inspire3.jpg",
+      "image": "images/pexels-david-bartus-43782-916015.jpg",
       "description": "8K cinema camera drone for high-end productions."
     },
     {
@@ -44,7 +44,7 @@
       "category": "Camera Drone",
       "price": 999,
       "rating": 4.6,
-      "image": "images/mini3.jpg",
+      "image": "images/pexels-freestockpro-1093236.jpg",
       "description": "Compact drone with 4K HDR video and long battery life."
     },
     {
@@ -52,7 +52,7 @@
       "category": "FPV Drone",
       "price": 1299,
       "rating": 4.8,
-      "image": "images/fpvcombo.jpg",
+      "image": "images/pexels-jeshoots-com-147458-442589.jpg",
       "description": "High-speed FPV drone for immersive racing experiences."
     },
     {
@@ -60,7 +60,7 @@
       "category": "Agricultural Drone",
       "price": 14999,
       "rating": 4.9,
-      "image": "images/agrasT40.jpg",
+      "image": "images/pexels-pixabay-274939.jpg",
       "description": "Heavy-lift spraying drone for precision agriculture."
     },
     {
@@ -68,7 +68,7 @@
       "category": "Industrial Drone",
       "price": 12000,
       "rating": 5.0,
-      "image": "images/matrice350.jpg",
+      "image": "images/pexels-pok-rie-33563-1336185.jpg",
       "description": "Advanced industrial drone for surveying and inspection."
     },
     {
@@ -76,7 +76,7 @@
       "category": "Drone Accessory",
       "price": 399,
       "rating": 4.7,
-      "image": "images/osmoaction4.jpg",
+      "image": "images/pexels-joshsorenson-1034812.jpg",
       "description": "Action camera for mounting on drones."
     },
     {
@@ -84,7 +84,7 @@
       "category": "Remote Controller",
       "price": 299,
       "rating": 4.8,
-      "image": "images/djirc2.jpg",
+      "image": "images/pexels-thelazyartist-1506991.jpg",
       "description": "Lightweight remote controller with built-in screen."
     },
     {
@@ -92,7 +92,7 @@
       "category": "FPV Accessory",
       "price": 499,
       "rating": 4.6,
-      "image": "images/gogglesintegra.jpg",
+      "image": "images/pexels-flo-dnd-989753-2100075.jpg",
       "description": "Lightweight FPV goggles for immersive drone control."
     },
     {
@@ -100,7 +100,7 @@
       "category": "Accessory Kit",
       "price": 259,
       "rating": 4.9,
-      "image": "images/flymorekit.jpg",
+      "image": "images/pexels-darrel-und-217939-1087180.jpg",
       "description": "Extra batteries, propellers, and charging hub."
     },
     {
@@ -108,7 +108,7 @@
       "category": "Audio Accessory",
       "price": 329,
       "rating": 4.7,
-      "image": "images/djismic.jpg",
+      "image": "images/pexels-jeshoots-com-147458-442587.jpg",
       "description": "Wireless microphone system for drone videography."
     },
     {
@@ -116,7 +116,7 @@
       "category": "Camera Drone",
       "price": 599,
       "rating": 4.5,
-      "image": "images/mini2se.jpg",
+      "image": "images/pexels-pok-rie-33563-724921.jpg",
       "description": "Affordable mini drone with 2.7K video."
     }
   ]

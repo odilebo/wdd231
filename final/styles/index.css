@@ -10,6 +10,7 @@ body {
   h1, h2 {
     font-family: 'Lobster', cursive;
     margin: 0.5em 0;
+    text-align: center;
   }
   
   a {
@@ -82,6 +83,7 @@ body {
   
   main {
     padding: 2rem;
+    text-align: center;
   }
   
   .view-toggle {

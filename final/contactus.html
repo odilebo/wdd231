@@ -4,16 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author"   content="Oarabile Dilebo" >
-    <meta name="description" content="Welcome to the Johannesburg Business Chamber" >
+    <meta name="description" content="Drone technology" >
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
     <link rel="icon" href="favicon.ico">
     <title>Welcome to the Johannesburg Business Chamber </title>
     <link rel="stylesheet" href="styles/contactus.css" >
-    <script src="scripts/join.js" defer></script>
-    <meta property="og:title" content="Welcome to the Johannesburg Business Chamber">
-    <meta property="og:description" content="WDD 231 - Web Development 1 built by Oarabile Dilebo. This is the home page for the Johanneburg Commerce">
+    <script src="scripts/contactus.js" defer></script>
+    <meta property="og:title" content="Dji Drone technology">
+    <meta property="og:description" content="WDD 231 - Web Development 1 built by Oarabile Dilebo.">
     <meta property="og:image" content="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202110180743">
     <meta property="og:url" content="https://odilebo.github.io/wdd231/chamber/index.html">
 
@@ -25,39 +25,48 @@
             <button id="menu-toggle" aria-label="Toggle Menu">
                 ☰
             </button>
-            <img src="images/randburgbusinesslogo.png" alt="South African logo" class="nav-logo" />
+            <img src="images/logo.png" alt="dji logo" class="nav-logo" />
             <div id="nav-menu" class="navigation-links">
                 <a href="index.html" title="home">Home</a>
-                <a href="directory.html" title="directory">Directory</a>
-                <a href="join.html" title="Join">Join</a>
-                <a href="#" title="Discover">Discover</a>
+                <a href="products.html" title="directory">Products</a>
+                <a href="contactus.html" title="Join">Contact Us</a>
             </div>
         </nav>
     </header>
 
     <main>
-        <h1>Contact Us</h1>
-        <p>We’d love to hear from you! Please fill out the form below and we’ll get back to you as soon as possible.</p>
+        <h1>Contact DJI Drone Technology</h1>
+        <p>Have questions about our drones, products, or services? Reach out to us using the form below, and our team will respond promptly.</p>
         
         <div class="form-container">
             <form method="post" action="thankyou.html">
                 
                 <label for="name">Full Name:</label>
-                <input type="text" id="name" name="fullName" required autocomplete="name">
+                <input type="text" id="name" name="fullName" required autocomplete="name" placeholder="John Doe">
                 
                 <label for="email">Email Address:</label>
-                <input type="email" id="email" name="email" required autocomplete="email">
+                <input type="email" id="email" name="email" required autocomplete="email" placeholder="example@email.com">
                 
                 <label for="phone">Phone Number:</label>
-                <input type="tel" id="phone" name="phone" autocomplete="tel">
+                <input type="tel" id="phone" name="phone" autocomplete="tel" placeholder="+27 71 123 4567">
+                
+                <label for="subject">Subject:</label>
+                <select id="subject" name="subject">
+                    <option value="product">Product Inquiry</option>
+                    <option value="support">Technical Support</option>
+                    <option value="demo">Demo Request</option>
+                    <option value="partnership">Partnership/Collaboration</option>
+                    <option value="other">Other</option>
+                </select>
                 
                 <label for="message">Your Message:</label>
-                <textarea id="message" name="message" rows="5" required></textarea>
+                <textarea id="message" name="message" rows="5" required placeholder="Tell us how we can help you..."></textarea>
                 
                 <input type="submit" value="Send Message">
             </form>
         </div>
-    </main>    
+    </main>
+        
     
     <footer>
         <div class="address">
